@@ -17,4 +17,4 @@
 
 ## Screenshots
 ![email](https://github.com/EvilBox/gorcom-balance/raw/master/docs/email.png)
-![tg](https://github.com/EvilBox/gorcom-balance/raw/master/docs/email.png)
+![tg](https://github.com/EvilBox/gorcom-balance/raw/master/docs/telegram.png)
