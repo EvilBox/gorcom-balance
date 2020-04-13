@@ -10,6 +10,11 @@
 - Узнаем свой chat ID в телеграме через @my_id_bot
 - Задаем token и chat ID в telegram.sh
 
+## Crontab
+Для исполнения скрипта добавьте в crontab условия запуска. Пример:
+- * 12 * * * /home/gorcom-balance/parse.sh (каждый день в 12:00 утра)
+- * 20 * * * /home/gorcom-balance/parse.sh (каждый день в 20:00 вечера)
+
 ## Screenshots
-![email][email_png]
-![tg][telegram.png]
+![email](https://github.com/EvilBox/gorcom-balance/raw/master/docs/email.png)
+![tg](https://github.com/EvilBox/gorcom-balance/raw/master/docs/email.png)
