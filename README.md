@@ -9,3 +9,7 @@
 - Создаем бота в телеграм через @BotFather
 - Узнаем свой chat ID в телеграме через @my_id_bot
 - Задаем token и chat ID в telegram.sh
+
+## Screenshots
+![email][email_png]
+![tg][telegram.png]
